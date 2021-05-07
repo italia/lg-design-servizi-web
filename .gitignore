@@ -1,0 +1,10 @@
+# python test files
+.tox
+*.py[co]
+
+# sphinx builds
+_*
+error.log
+
+#visual studio
+.vscode

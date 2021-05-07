@@ -1,0 +1,2 @@
+git+https://github.com/italia/docs-italia-theme.git@bootstrap-italia
+sphinx<=1.7
