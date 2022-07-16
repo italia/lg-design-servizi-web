@@ -9,7 +9,3 @@ interpretazione è descritta di seguito:
   linea guida;
 - **DOVREBBE** o **DOVREBBERO**, indicano che le implicazioni devono essere
   comprese e attentamente pesate prima di scegliere approcci alternativi.
-
-.. forum_italia::
-   :topic_id: 23508
-   :scope: document

@@ -1,10 +1,5 @@
-Linee guida di design per i servizi web della PA
-################################################
-
-.. admonition:: Consultazione pubblica
-
-   La consultazione pubblica per questo documento si è svolta dal 
-   12/05/2021 al 14/06/2021.
+Linee guida di design per i siti internet e i servizi digitali della PA
+#######################################################################
 
 Linee guida contenenti regole tecniche, ai sensi dell'art. 53, comma 1 ter -
 Siti internet delle pubbliche amministrazioni del Codice dell'Amministrazione
