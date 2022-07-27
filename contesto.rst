@@ -1,7 +1,7 @@
 Contesto
 ========
 
-Le precedenti «Linee guida per i siti web delle pubbliche amministrazioni»,
+Le precedenti *«Linee guida per i siti web delle pubbliche amministrazioni»*,
 previste dall'art. 4 della Direttiva del Ministro per la Pubblica
 Amministrazione e l'innovazione 26 novembre 2009, n. 8, intendevano indicare
 alle PA:
@@ -16,7 +16,7 @@ fondamentali del processo di sviluppo progressivo di siti e servizi online e di
 offerta di informazioni di qualità rivolte al cittadino.
 
 Con l'evoluzione del contesto tecnologico e normativo, sia nazionale che
-europeo, si è reso necessario procedere ad un adeguamento della metodologia e
+europeo, si è reso necessario procedere a un adeguamento della metodologia e
 degli strumenti per la progettazione, realizzazione, gestione e monitoraggio dei
 servizi pubblici digitali.
 

@@ -7,9 +7,13 @@ Digitale.
 
 .. toctree::
    :maxdepth: 3
+
+   note-lettura.rst
+
+.. toctree::
+   :maxdepth: 3
    :numbered:
 
-   prefazione.rst
    introduzione.rst
    riferimenti.rst
    contesto.rst
