@@ -19,8 +19,8 @@ Accessibilità
 
 - **Indicazioni e strumenti a supporto**: [Des_IT]
 
-Affidabilità e sicurezza
-------------------------
+Affidabilità, trasparenza e sicurezza
+-------------------------------------
 
 - **Finalità**: progettare e sviluppare servizi digitali che garantiscano la
   trasparenza delle informazioni e la sicurezza, nel rispetto della normativa
@@ -162,8 +162,8 @@ Affidabilità e sicurezza
 
 - **Indicazioni e strumenti a supporto**: [Des_IT]
 
-Semplicità di consultazione ed uso
-----------------------------------
+Semplicità di consultazione ed esperienza d'uso
+-----------------------------------------------
 
 - **Finalità**: progettare, realizzare e mantenere siti internet e servizi
   digitali utili e facili da usare, secondo una metodologia di progettazione
